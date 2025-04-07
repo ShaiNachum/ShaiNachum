@@ -77,4 +77,4 @@
 
 ###
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/apiShaiNachum=your-username&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiNachum&layout=donut-vertical&theme=github_dark)
